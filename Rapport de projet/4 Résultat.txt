@@ -1,0 +1,14 @@
+Résultat de prédictions :
+
+	Sous forme CrossValidation/Split 80% -> Trie features
+
+	Poubelle: 	16%	/15%	-> 12%
+	Ourson: 	30%	/19,8%	-> 25%
+	Deloghi:	30,5%	/19,5%	-> 25%
+	Casque: 	59%	/44%	-> Erreur
+	Eau:		15%	/17% 	-> 17%
+	Lardon: 	49%	/46% 	-> 36%
+	Pq:		16%	/26% 	-> 25%
+	Lardon Famille:	20%	/12% 	-> 12%
+
+Multioutput ne change rien.

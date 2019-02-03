@@ -1,0 +1,27 @@
+Fait:
+
+Deepl
+Machine Learning
+Multiple Modèle
+Optimisation des paramètres
+Optimisation des features
+
+Pas fait:
+
+Cahier d'évènement
+Test à l'heure
+Test aux tickets
+Comparer les magasins
+Comparer plusieurs type d'un autre produit
+Trouver un cycle pour les aliments pas vendu souvent
+Entreprendre à plus grande échelle
+
+Optimisation:
+
+Passer en dessous des 14%, 36% et 12% (eau, lard, poubelle)
+Trouver une solution pour associer plusieurs modèles
+Lancer plusieurs modèles en même temps sans crash
+
+Final:
+
+Anticiper au mieux les ventes d'un produit

@@ -1,0 +1,31 @@
+			|-------------------------------|
+			|  Python - Anaconda - Jupyter  |
+|-----------------------|-------------------------------|-----------------------|
+|Avant toute chose installez Anaconda pour python				|
+|-------------------------------------------------------------------------------|
+|Librairie : 	Ouvrir le terminal 						|
+|		Ecrire "conda install pip					|
+|		Installez les librairies manquante avec "pip install ..."	|
+|Voir "Librairies.txt"								|
+|-------------------------------------------------------------------------------|
+|Fichiers de Données:								|
+|Les données sont des séries chronologiques					|
+|Ils sont récupérés sur la base de données Auchan (data original).		|
+|Il est conseillé de les ouvrir sois avec bloc-note sois avec libre-office	|
+|Le dossier Data contient des fichiers modifiés à la main.			|
+|-------------------------------------------------------------------------------|
+|Fichiers de Code:								|
+|Les modèles ne sont que des "Regressor"					|
+|La structure de chaque programme sera expliqué en début.			|
+|"Prep Csv.ipynb" permet de gérer le contenu du Csv "BDDLAST.txt"		|
+|"Deepl SEQUENTIAL.ipynb" est un programme de deep learning.			|
+|"CATBOOST.ipynb" est un programme sur le model CatBoost.			|
+|"XGB.ipynb" est un programme poussant l'optimisation de XGBOOST.		|
+|"All model.ipynb" est un programme lançant individuellement différents modèles.|
+|"Multi_output" est un programme qui gère plusieurs sortis 			|
+|"Prep lardon" créait un fichier csv de bdd de la famille des lardons		|
+|"Prep Quart" rajoute dans le csv la notion d'heure et de quart d'heure		|
+|"XGBQUART" est un programme d'optimisation sur le quart d'heure avec Xgboost	|
+|"Prep CA" Non finis.
+|-------------------------------------------------------------------------------|
+Si l'on veut rajouter la température, il faut dé-drop dans le fichier "Prep Csv.ipynb" et rajouter dans "XGB.ipynb" au niveau des groupes.
